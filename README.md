@@ -1,6 +1,6 @@
 # O Hackathon Jovem Programador 2021
 
-O evento denominado Hackathon Jovem Programador é promovido pelo SEPROSC - Sindicado das Empresas de Informática, Processamento de Dados e Tecnologia da Informação do Estado de Santa Catarina e SENAC Santa Catarina em parceria com seus patrocinadores e entidades apoiadoras.
+O evento denominado Hackathon Jovem Programador é promovido pelo SEPROSC - Sindicado das Empresas de Informática, Processamento de Dados e Tecnologia da Informação do Estado de Santa Catarina; e SENAC Santa Catarina em parceria com seus patrocinadores e entidades apoiadoras.
 
 
 # Nosso projeto
